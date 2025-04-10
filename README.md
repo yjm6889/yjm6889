@@ -1,14 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
- what's up bro 😙
+ 🙌what's up bro🙌  🙇‍♂️🙇‍♂️ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
+🔞🏃‍♂️‍➡️🏃‍♂️‍➡️🏃‍♂️‍➡️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/BMW-0066B1?style=flat-square&logo=BMW&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kia-05141F?style=flat-square&logo=Kia&logoColor=white"/></a>
 
-**yjm6889/yjm6889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,5 +15,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...🪖🫡🏌️‍♂️
